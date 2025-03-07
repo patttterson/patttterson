@@ -9,7 +9,8 @@ i have not finished this page at all!
 ## Games and stuff I like
 - [TETR.IO](https://tetr.io/)
   - oh my god please try tetrio its so fun
-  - [my user profile](https://ch.tetr.io/u/_patterson) (add me!)
+  - [my user profile](https://ch.tetr.io/u/minji) (add me!)
+  - cooking
 - [Minecraft](https://minecraft.com/)
   - in my 2 week phase rn
   - already done w/ vanilla, doing [modded](https://modrinth.com/mod/create)
