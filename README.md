@@ -9,11 +9,9 @@ i have not finished this page at all!
 ## Games and stuff I like
 - [TETR.IO](https://tetr.io/)
   - oh my god please try tetrio its so fun
-  - [my user profile](https://ch.tetr.io/u/minji) (add me!)
-  - cooking
-- [Minecraft](https://minecraft.com/)
-  - in my 2 week phase rn
-  - already done w/ vanilla, doing [modded](https://modrinth.com/mod/create)
+  - [my user profile](https://ch.tetr.io/u/minji)
+- [osu!](https://osu.ppy.sh/)
+  - [my user profile](https://osu.ppy.sh/users/18741136)
 
 ## 🤓 stuff
 Languages I know:
@@ -23,8 +21,6 @@ Languages I know:
 - Java (i got a 5 on the APCSA test!) [so pro]
 - learning typescript
 - html, css all that
-
-As of September 10, 2024, I don't have any publicly available projects I can just show off. I am working on a few, but they aren't that impressive yet. If you're curious though, try starting [here](https://github.com/patttterson/autolibcal)?
 
 <!--
 **gfdsohgdkoshgiodsbblbngsal/gfdsohgdkoshgiodsbblbngsal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
