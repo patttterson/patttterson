@@ -1,4 +1,4 @@
-# donate to the aclu https://www.aclu.org/donate-aclu
+# <- idiot
 
 - Pronouns: any/all
 - i listen to newjeans religiously
