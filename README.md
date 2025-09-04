@@ -1,6 +1,7 @@
 # <- idiot
 
-- Pronouns: any/all
+- Pronouns: any normative-ish
+  - https://en.pronouns.page/@pattersonuwu
 - i listen to newjeans religiously
   - [stats.fm](https://stats.fm) at [@patterson](https://stats.fm/patterson)
 - sometimes i like editing on wikipedia [here](https://en.wikipedia.org/wiki/User:Pattersonuwu)
