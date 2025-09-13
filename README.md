@@ -14,6 +14,7 @@
   - [my user profile](https://osu.ppy.sh/users/18741136)
 
 ## 🤓 stuff
+<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=20644&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=date_night">
 Languages I know:
 - Python
 - C++
