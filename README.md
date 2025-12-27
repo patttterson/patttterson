@@ -4,7 +4,7 @@
   - https://en.pronouns.page/@pattersonuwu
 - i listen to newjeans religiously
   - [stats.fm](https://stats.fm) at [@patterson](https://stats.fm/patterson)
-- sometimes i like editing on wikipedia [here](https://en.wikipedia.org/wiki/User:Pattersonuwu)
+- sometimes i like editing on wikipedia [here](https://en.wikipedia.org/wiki/User:Pattersonuwu)ama
 
 ## socials
 - [bilibili](https://www.bilibili.com/) ([@pattersonuwu](https://space.bilibili.com/3690985777269048))
@@ -19,6 +19,12 @@
   - [my user profile](https://ch.tetr.io/u/minji)
 - [osu!](https://osu.ppy.sh/)
   - [my user profile](https://osu.ppy.sh/users/18741136)
+
+## useful apps/programs
+- [VERT.sh](https://vert.sh/) ([source](https://github.com/VERT-sh/VERT))
+  - amazing for file conversion
+- [cobalt](https://cobalt.tools/) ([source](https://github.com/imputnet/cobalt))
+  - media downloader. doesn't work with youtube as of 12/27/2025, but you can find community instances that do [here](https://instances.cobalt.best/)
 
 ## 🤓 stuff
 <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=20644&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=date_night">
