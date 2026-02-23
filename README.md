@@ -12,8 +12,8 @@
 - [youtube](https://www.youtube.com/@minjiuwu)
 - [twitter](https://twitter.com/pattersonuwu)
 
-> [!IMPORTANT]
-> support REAL artists, commission them (https://vgen.co), interact with their posts, etc.
+> [!NOTE]
+> unfinished website https://minji.love ([source](https://github.com/patttterson/minji))
 
 ## Games and stuff I like
 - Currently: Minecraft Speedrunning
