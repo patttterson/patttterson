@@ -29,10 +29,6 @@
 - [cobalt](https://cobalt.tools/) ([source](https://github.com/imputnet/cobalt))
   - media downloader. doesn't work with youtube as of 12/27/2025, but you can find community instances that do [here](https://instances.cobalt.best/)
 
-> [!TIP]
-> if you live in the UK or anywhere else with internet censorship, feel free to use https://scramjet.torrent.minji.love
-> (source: https://github.com/MercuryWorkshop/Scramjet-App)
-
 ## 🤓 stuff
 <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=20644&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=date_night">
 
